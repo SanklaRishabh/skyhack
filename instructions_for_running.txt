@@ -1,0 +1,37 @@
+Instructions for Running the Jupyter Notebook
+
+
+Project Title: Call Center Performance Optimization for United Airlines
+
+
+Prerequisites:
+Ensure the following are installed on your system-
+Python 3
+Jupyter Notebooks
+Pandas
+NumPy
+Matplotlib 
+Seaborn 
+NLTK 
+Scikitlearn 
+
+
+Steps to Run the Notebook:
+
+Download the Notebook
+Open Jupyter Notebook
+
+Navigate to the Notebook:
+In the Jupyter interface, navigate to the folder where ua-prediction-model.ipynb is located and click to open the notebook.
+
+
+Run the Notebook:
+Run each cell sequentially by selecting the cell and pressing Shift + Enter, or click Kernel > Restart & Run All to run all cells in one go.
+Ensure that all dependencies are correctly installed and that data files are loaded properly.
+
+
+Data Files:
+The notebook requires csv files  datasets, ensure the data files are present in the same directory as the notebook.
+
+Closing the Notebook:
+After reviewing the results, you can close Jupyter by shutting down the browser tab and stopping the Jupyter server in your terminal by pressing Ctrl + C
